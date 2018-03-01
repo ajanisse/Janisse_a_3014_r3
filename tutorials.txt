@@ -1,0 +1,13 @@
+Tutorials
+
+php mail function
+http://php.net/manual/en/function.mail.php 
+
+Random String
+https://stackoverflow.com/questions/5438760/generate-random-5-characters-string
+--------------------------------------------------------------------------------------
+
+
+
+Mysqli Fetch Array Help
+http://php.net/manual/en/mysqli-result.fetch-array.php

@@ -1,0 +1,55 @@
+/*Variables*/
+/*Main Css*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+h1 {
+  color: white;
+  font-family: Courier New, Arial;
+  text-align: center;
+}
+h2{
+    color:white;
+}
+
+a, a:hover, a:active, a:visited { color: white; }
+
+
+body {
+  font-family: Courier New, Arial;
+  background: #0d1c35;
+  border: 1px;
+  border-color: #8b9dc3; }
+  body ul {
+    color: #fff; }
+
+form {
+  background: #8b9dc3;
+ }
+  form input {
+   
+    margin-right: 0.5%;
+    border-radius: 10px;
+        margin-left: 10px;
+
+}
+  form button {
+    background: #3b5998;
+    font-size: 13px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+#messages {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 15px; }
+
+.nickname {
+  margin-left: 2.5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border: 5px;
+  border-radius: 1px; }
